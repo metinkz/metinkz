@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi!
+
+I'm a mechatronics engineer with a focus on industrial automation and programming.
+
+I use GitHub to document my projects and learning process.
+
+Currently, I develop projects mainly in Siemens TIA Portal to strengthen my understanding of real-world automation problems.
 
 <!--
 **metinkz/metinkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
